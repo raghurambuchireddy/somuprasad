@@ -1,1 +1,1 @@
-# somuprasad
+permalink: /index.html
